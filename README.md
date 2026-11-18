@@ -2,7 +2,7 @@
 
 A free, offline-ready **DevOps study app** (Progressive Web App). Learn by reading, watching animated walkthroughs, running commands in a simulated terminal and playing with interactive labs.
 
-**Live demo:** `https://<your-username>.github.io/<repo-name>/` (after enabling GitHub Pages, see below)
+**Live demo:** `https://soorajacontec.github.io/<repo-name>/` (after enabling GitHub Pages, see below)
 
 ## Features
 
@@ -37,13 +37,13 @@ python3 -m http.server 8080
 2. In the repo go to **Settings → Pages → Build and deployment → Source: GitHub Actions**.
 3. The included workflow (`.github/workflows/pages.yml`) publishes the site on every push to `main`.
 
-All asset paths are relative, so it works under `https://user.github.io/repo-name/`.
+All asset paths are relative, so it works under `https://soorajacontec.github.io/devopsdev/`.
 
 ```bash
 git init -b main
 git add .
 git commit -m "Initial commit: Dev Ops Dev PWA"
-git remote add origin git@github.com:<your-username>/<repo-name>.git
+git remote add origin git@github.com:soorajacontec/devopsdev.git
 git push -u origin main
 ```
 
