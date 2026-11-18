@@ -2,7 +2,7 @@
 
 A free, offline-ready **DevOps study app** (Progressive Web App). Learn by reading, watching animated walkthroughs, running commands in a simulated terminal and playing with interactive labs.
 
-**Live demo:** `https://soorajacontec.github.io/<repo-name>/` (after enabling GitHub Pages, see below)
+**Live demo:** `https://soorajacontec.github.io/devopsdev/` (after enabling GitHub Pages, see below)
 
 ## Features
 
