@@ -1,0 +1,22 @@
+{
+  "name": "Dev Ops Dev — Learn DevOps",
+  "short_name": "Dev Ops Dev",
+  "description": "Everything about DevOps: explanations, commands, how-to guides, animated walkthroughs and live labs.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0b0f17",
+  "theme_color": "#0b0f17",
+  "categories": ["education", "developer", "productivity"],
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "shortcuts": [
+    { "name": "Commands", "url": "./index.html#commands" },
+    { "name": "Terminal", "url": "./index.html#terminal" },
+    { "name": "Labs", "url": "./index.html#labs" }
+  ]
+}
